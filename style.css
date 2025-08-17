@@ -1,0 +1,13 @@
+* {
+    background-color: lightblue;
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px;
+    padding: 5px;
+    margin: 25px;
+    font-family: sans-serif
+    
+}
+ul, ol{
+    list-style-position: inside;
+}
